@@ -42,7 +42,7 @@ public class RandomNoise : MonoBehaviour
             noiseTexture.Initialize(width, height, noiseMap);
         }
 
-        //Noise();
+        Noise();
     }
 
     private void Noise()
@@ -59,6 +59,8 @@ public class RandomNoise : MonoBehaviour
             }
         }
 
+#if UNITY_EDITOR
         Debug.Log(str);
+#endif
     }
 }
