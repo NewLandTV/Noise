@@ -2,6 +2,8 @@
 
 유니티로 만든 노이즈 생성기입니다.
 
+[![Development Note p.323](https://img.youtube.com/vi/Vv86lVq1jJI/0.jpg)](https://www.youtube.com/watch?v=Vv86lVq1jJI)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
